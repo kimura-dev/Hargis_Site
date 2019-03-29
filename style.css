@@ -45,10 +45,21 @@ nav ul li a {
 
 }
 
+.logo_container {}
+
+.logo {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 45%;
+  left: 50%;
+  width: 350px;
+  height: 350px;
+}
+
 .site_title {
   color: #fff;
   position: absolute;
   transform: translate(-50%, -50%);
-  top: 90%;
+  top: 95%;
   left: 50%;
 }
