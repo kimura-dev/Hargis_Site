@@ -46,7 +46,7 @@ nav ul li {
 
 nav ul li:hover {
   cursor: pointer;
-  background-color: #f39d1a;
+  background-color: lightsalmon;
 }
 
 nav ul li a {
